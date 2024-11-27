@@ -1,2 +1,2 @@
-# kpi-kong
+# Vector
 Modern and simplified KPI management software
